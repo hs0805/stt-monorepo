@@ -1,0 +1,9 @@
+{
+    "name": "stt-monorepo",
+    "private": true,
+    "workspaces": [
+      "stt-frontend",
+      "stt-backend"
+    ]
+  }
+  

@@ -1,0 +1,7 @@
+# Common Gitignore for stt-monorepo
+
+# Include Gitignore for frontend
+include frontend/.gitignore
+
+# Include Gitignore for backend
+include backend/.gitignore
